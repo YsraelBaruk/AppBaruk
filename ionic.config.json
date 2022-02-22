@@ -1,0 +1,7 @@
+{
+  "name": "AppBaruk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
